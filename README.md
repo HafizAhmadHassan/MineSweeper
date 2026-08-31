@@ -1,4 +1,5 @@
 # Minesweeper
+*Created: 2019-12-19*
 
 A **Minesweeper** game built as the final assignment for an **Object-Oriented Analysis and Design** course, written in **Java**.
 
